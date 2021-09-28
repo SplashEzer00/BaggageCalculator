@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d70f71fa-16f6-4156-a272-b2d66c646865" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\Repository" />
+        <option name="mavenHome" value="F:/maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yc9hy7lxQL26qa9YhCv3kM0kMH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.java.com.shez.bc" />
+      <recent name="main.java.com.shez.test" />
+      <recent name="test.java.com.shez.ui" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest.excessCalculate">
+    <configuration name="BaggageTest.isCanConsign" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BaggageCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.shez.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.com.shez.test" />
+      <option name="MAIN_CLASS_NAME" value="main.java.com.shez.test.BaggageTest" />
+      <option name="METHOD_NAME" value="isCanConsign" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.calculateDomestic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BaggageCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.shez.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.com.shez.test" />
+      <option name="MAIN_CLASS_NAME" value="main.java.com.shez.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="calculateDomestic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.calculateInterbational" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BaggageCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.shez.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.com.shez.test" />
+      <option name="MAIN_CLASS_NAME" value="main.java.com.shez.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="calculateInterbational" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.excessCalculate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BaggageCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.shez.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.com.shez.test" />
+      <option name="MAIN_CLASS_NAME" value="main.java.com.shez.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="excessCalculate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecialBaggageTest.isCanConsign" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BaggageCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.shez.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.com.shez.test" />
+      <option name="MAIN_CLASS_NAME" value="main.java.com.shez.test.SpecialBaggageTest" />
+      <option name="METHOD_NAME" value="isCanConsign" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BaggageTest.isCanConsign" />
+      <item itemvalue="JUnit.SpecialBaggageTest.isCanConsign" />
+      <item itemvalue="JUnit.CalculatorTest.calculateDomestic" />
+      <item itemvalue="JUnit.CalculatorTest.calculateInterbational" />
+      <item itemvalue="JUnit.CalculatorTest.excessCalculate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest.excessCalculate" />
+        <item itemvalue="JUnit.CalculatorTest.calculateInterbational" />
+        <item itemvalue="JUnit.CalculatorTest.calculateDomestic" />
+        <item itemvalue="JUnit.SpecialBaggageTest.isCanConsign" />
+        <item itemvalue="JUnit.BaggageTest.isCanConsign" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d70f71fa-16f6-4156-a272-b2d66c646865" name="Default Changelist" comment="" />
+      <created>1632540131738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632540131738</updated>
+      <workItem from="1632540144921" duration="938000" />
+      <workItem from="1632550691857" duration="18884000" />
+      <workItem from="1632621774956" duration="34152000" />
+      <workItem from="1632706938166" duration="9950000" />
+      <workItem from="1632726932592" duration="673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="66" key="#BaggageTest.IsCanConsignData" timestamp="1632627593789">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="344" y="66" key="#BaggageTest.IsCanConsignData/0.0.1536.834@0.0.1536.834" timestamp="1632627593789" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632646093424">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1632646093424" />
+    <state x="492" y="184" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1632540439623">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="492" y="184" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1632540439623" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1632726862765">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1632726862765" />
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1632726867250">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1632726867250" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1632726867250">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1632726867250" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1632726867250">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1632726867250" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1632726867250">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1632726867250" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1632625796285">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1632625796285" />
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1632726932158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1632726932158" />
+    <state x="486" y="310" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1632626196076">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="486" y="310" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1632626196076" />
+    <state x="945" y="76" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1632540757888">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="945" y="76" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834@0.0.1536.834" timestamp="1632540757888" />
+  </component>
+</project>
